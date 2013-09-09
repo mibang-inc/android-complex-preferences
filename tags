@@ -1,0 +1,47 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ComplexPreferences	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	private ComplexPreferences(Context context, String namePreferences, int mode) {$/;"	m	class:ComplexPreferences	file:
+ComplexPreferences	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^public class ComplexPreferences {$/;"	c
+GSON	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	private static Gson GSON = new Gson();$/;"	f	class:ComplexPreferences	file:
+ListUserComplexPref	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ListUserComplexPref.java	/^public class ListUserComplexPref {$/;"	c
+ScreenActivity1	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity1.java	/^public class ScreenActivity1 extends Activity {$/;"	c
+ScreenActivity2	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity2.java	/^public class ScreenActivity2 extends Activity {$/;"	c
+User	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^public class User {$/;"	c
+active	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	private boolean active;$/;"	f	class:User	file:
+age	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	private int age;$/;"	f	class:User	file:
+br.com.kots.mob.complex.preferences	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^package br.com.kots.mob.complex.preferences;$/;"	p
+br.com.kots.mob.complex.preferences.example	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ListUserComplexPref.java	/^package br.com.kots.mob.complex.preferences.example;$/;"	p
+br.com.kots.mob.complex.preferences.example	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity1.java	/^package br.com.kots.mob.complex.preferences.example;$/;"	p
+br.com.kots.mob.complex.preferences.example	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity2.java	/^package br.com.kots.mob.complex.preferences.example;$/;"	p
+br.com.kots.mob.complex.preferences.example	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^package br.com.kots.mob.complex.preferences.example;$/;"	p
+button	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity1.java	/^	Button button;$/;"	f	class:ScreenActivity1
+commit	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	public void commit() {$/;"	m	class:ComplexPreferences
+complexPreferences	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	private static ComplexPreferences complexPreferences;$/;"	f	class:ComplexPreferences	file:
+context	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	private Context context;$/;"	f	class:ComplexPreferences	file:
+editor	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	private SharedPreferences.Editor editor;$/;"	f	class:ComplexPreferences	file:
+getAge	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	public int getAge() {$/;"	m	class:User
+getComplexPreferences	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	public static ComplexPreferences getComplexPreferences(Context context,$/;"	m	class:ComplexPreferences
+getName	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	public String getName() {$/;"	m	class:User
+getObject	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	public <T> T getObject(String key, Class<T> a) {$/;"	m	class:ComplexPreferences
+getUsers	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ListUserComplexPref.java	/^	public List<User> getUsers() {$/;"	m	class:ListUserComplexPref
+isActive	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	public boolean isActive() {$/;"	m	class:User
+listView	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity2.java	/^	ListView listView;$/;"	f	class:ScreenActivity2
+name	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	private String name;$/;"	f	class:User	file:
+onCreate	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity1.java	/^	protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:ScreenActivity1
+onCreate	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity2.java	/^	protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:ScreenActivity2
+onCreateOptionsMenu	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity1.java	/^	public boolean onCreateOptionsMenu(Menu menu) {$/;"	m	class:ScreenActivity1
+onCreateOptionsMenu	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity2.java	/^	public boolean onCreateOptionsMenu(Menu menu) {$/;"	m	class:ScreenActivity2
+preferences	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	private SharedPreferences preferences;$/;"	f	class:ComplexPreferences	file:
+putObject	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	public void putObject(String key, Object object) {$/;"	m	class:ComplexPreferences
+setActive	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	public void setActive(boolean active) {$/;"	m	class:User
+setAge	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	public void setAge(int age) {$/;"	m	class:User
+setName	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	public void setName(String name) {$/;"	m	class:User
+setUsers	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ListUserComplexPref.java	/^	public void setUsers(List<User> users) {$/;"	m	class:ListUserComplexPref
+textView	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ScreenActivity2.java	/^	TextView textView;$/;"	f	class:ScreenActivity2
+toString	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/User.java	/^	public String toString() {$/;"	m	class:User
+typeOfObject	ComplexPreferences/src/br/com/kots/mob/complex/preferences/ComplexPreferences.java	/^	Type typeOfObject = new TypeToken<Object>() {$/;"	f	class:ComplexPreferences
+users	ExampleComplexPreferences/src/br/com/kots/mob/complex/preferences/example/ListUserComplexPref.java	/^	public List<User> users;$/;"	f	class:ListUserComplexPref
